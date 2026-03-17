@@ -61,7 +61,7 @@ export default function DadBodPage() {
           transition={{ delay: 0.3, duration: 0.6 }}
           className="bg-tactical-navy/20 border border-tactical-red/20 rounded-lg p-8 mb-8"
         >
-          <h2 className="font-heading text-3xl text-tactical-red mb-6">WHAT'S INCLUDED</h2>
+          <h2 className="font-heading text-3xl text-tactical-red mb-6">WHAT&apos;S INCLUDED</h2>
           <ul className="space-y-4">
             {program.features.map((feature, idx) => (
               <li key={idx} className="flex items-start gap-3">
@@ -107,7 +107,7 @@ export default function DadBodPage() {
         >
           <h2 className="font-heading text-3xl text-white mb-4">READY TO TRANSFORM?</h2>
           <p className="text-xl text-gray-300 mb-6">
-            In just 30 days, you'll shed the dad bod, build a strength foundation, and establish habits that last.
+            In just 30 days, you&apos;ll shed the dad bod, build a strength foundation, and establish habits that last.
           </p>
           <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-400">
             <span>✓ Time-efficient workouts</span>

@@ -109,7 +109,7 @@ export default function ContactForm() {
       {/* Status Messages */}
       {submitStatus === 'success' && (
         <div className="p-4 bg-green-500/20 border border-green-500 rounded text-green-400 text-center">
-          Message sent successfully! I'll get back to you soon.
+          Message sent successfully! I&apos;ll get back to you soon.
         </div>
       )}
       {submitStatus === 'error' && (

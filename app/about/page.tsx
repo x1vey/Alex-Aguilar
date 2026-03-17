@@ -31,7 +31,7 @@ export default function AboutPage() {
           <div className="bg-tactical-navy/20 border border-tactical-red/20 rounded-lg p-8">
             <h2 className="font-heading text-3xl text-tactical-red mb-4">THE JOURNEY</h2>
             <p className="mb-4">
-              Alex Aguilar's path to becoming a premier tactical fitness coach is rooted in real-world experience 
+              Alex Aguilar&apos;s path to becoming a premier tactical fitness coach is rooted in real-world experience 
               at the highest levels of physical and mental performance.
             </p>
             <p>
@@ -45,7 +45,7 @@ export default function AboutPage() {
             <h2 className="font-heading text-3xl text-tactical-red mb-4">TACTICAL OPERATIONS</h2>
             <p className="mb-4">
               As a <strong className="text-white">CIA Contractor</strong>, Alex operated in high-stakes environments 
-              where physical readiness wasn't optional—it was survival. This experience taught him the critical 
+              where physical readiness wasn&apos;t optional—it was survival. This experience taught him the critical 
               importance of functional fitness that translates to real-world performance.
             </p>
             <p>
@@ -75,7 +75,7 @@ export default function AboutPage() {
             </p>
             <p className="mb-4">
               Whether you're a dad looking to reclaim your fitness, a tactical professional maintaining operational 
-              readiness, or a candidate preparing for special operations selection, Alex's programs deliver results.
+              readiness, or a candidate preparing for special operations selection, Alex&apos;s programs deliver results.
             </p>
             <p>
               His training combines proven strength and conditioning principles with the mental toughness development 

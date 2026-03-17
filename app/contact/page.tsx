@@ -20,7 +20,7 @@ export default function ContactPage() {
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Ready to start your transformation? Have questions about the programs? 
-            Send me a message and let's talk about your goals.
+            Send me a message and let&apos;s talk about your goals.
           </p>
         </motion.div>
 

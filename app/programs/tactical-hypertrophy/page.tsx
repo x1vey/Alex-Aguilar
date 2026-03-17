@@ -34,7 +34,7 @@ export default function TacticalHypertrophyPage() {
           transition={{ delay: 0.2, duration: 0.6 }}
           className="bg-tactical-navy/20 border border-tactical-red/20 rounded-lg p-8 mb-8"
         >
-          <h2 className="font-heading text-3xl text-tactical-red mb-6">WHAT YOU'LL BUILD</h2>
+          <h2 className="font-heading text-3xl text-tactical-red mb-6">WHAT YOU&apos;LL BUILD</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex items-start gap-4">
               <div className="text-4xl">💪</div>

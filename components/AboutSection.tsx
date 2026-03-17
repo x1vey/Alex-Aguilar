@@ -1,6 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
+import Image from 'next/image'
 import { imageConfig } from '@/lib/config/images'
 
 export default function AboutSection() {
@@ -61,10 +62,11 @@ export default function AboutSection() {
           >
             <div className="relative aspect-[4/5] border-4 border-tactical-red/50 overflow-hidden bg-tactical-navy/20">
               {/* Founder image - Update URL in lib/config/images.ts */}
-              <img 
+              <Image 
                 src={imageConfig.founder.portrait}
                 alt="Alex Aguilar - Founder"
-                className="w-full h-full object-cover object-center"
+                fill
+                className="object-cover object-center"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-tactical-black/60 via-transparent to-transparent" />
             </div>
